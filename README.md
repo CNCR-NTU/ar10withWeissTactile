@@ -2,7 +2,7 @@
  http://www.active-robots.com/ar10-humanoid-robotic-hand
 # ar10withWeissTactile
 
-This is a integration of Weiss Tactil sensor with ar10 hand. Only three tactile sensors are used which are placed on thumb, index and ring finger. 
+This is an integration of Weiss tactile sensor with the ar10 hand. Only three tactile sensors are used which are placed on thumb, index and ring finger. 
 
 ros_ar10-class.py is the library file where you can define type of finger joint movements. 
 
