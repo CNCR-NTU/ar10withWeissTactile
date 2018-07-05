@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 
 '''
+author: Nikesh Lama
+'''
+
+'''
 This script starts grabbing motion whilst listening tactile fingertips data.
 This is a rather simplistic way of controlling.
 Once tactile finger tips reach threshold values for pressure, it receives 'q' message
